@@ -1,0 +1,384 @@
+{
+    "CAS": "7440-63-3",
+    "LibraryIndex": "959",
+    "CompoundID": "Xenon",
+    "StructureFormula": "Xe",
+    "Family": "24",
+    "CriticalTemperature": [
+        "289.74",
+        "K"
+    ],
+    "CriticalPressure": [
+        "5840000",
+        "Pa"
+    ],
+    "CriticalVolume": [
+        "0.118",
+        "m3/kmol"
+    ],
+    "CriticalCompressibility": [
+        "0.286",
+        "_"
+    ],
+    "NormalBoilingPointTemperature": [
+        "165.01",
+        "K"
+    ],
+    "NormalMeltingPointTemperature": [
+        "161.25",
+        "K"
+    ],
+    "TriplePointTemperature": [
+        "161.25",
+        "K"
+    ],
+    "TriplePointPressure": [
+        "81667.9",
+        "Pa"
+    ],
+    "MolecularWeight": [
+        "131.29",
+        "kg/kmol"
+    ],
+    "LiquidVolumeAtNormalBoilingPoint": [
+        "0.04291",
+        "m3/kmol"
+    ],
+    "AcentricityFactor": [
+        "0.006",
+        "_"
+    ],
+    "SolubilityParameter": [
+        "15910",
+        "J0.5/m1.5"
+    ],
+    "DipoleMoment": [
+        "0",
+        "Coulomb.m"
+    ],
+    "HeatOfFormation": [
+        "0",
+        "J/kmol"
+    ],
+    "GibbsEnergyOfFormation": [
+        "0",
+        "J/kmol"
+    ],
+    "AbsEntropy": [
+        "169578",
+        "J/kmol/K"
+    ],
+    "HeatOfFusionAtMeltingPoint": [
+        "2294950",
+        "J/kmol"
+    ],
+    "HeatOfCombustion": [
+        "0",
+        "J/kmol"
+    ],
+    "LiquidDensity": [
+        {
+            "eqno": "105",
+            "A": "2.4063",
+            "B": "0.28552",
+            "C": "289.74",
+            "D": "0.28967",
+            "Tmin": "161.36",
+            "Tmax": "289.74"
+        },
+        "kmol/m3"
+    ],
+    "VaporPressure": [
+        {
+            "eqno": "101",
+            "A": "31.497",
+            "B": "-1758.9",
+            "C": "-1.8727",
+            "D": "0.0000091652",
+            "E": "2",
+            "Tmin": "155.55",
+            "Tmax": "290"
+        },
+        "Pa"
+    ],
+    "HeatOfVaporization": [
+        {
+            "eqno": "106",
+            "A": "1.740633E+07",
+            "B": "-0.233725",
+            "C": "3.148357",
+            "D": "-4.995262",
+            "E": "2.477111",
+            "Tmin": "161.36",
+            "Tmax": "289.74"
+        },
+        "J/kmol"
+    ],
+    "LiquidHeatCapacityCp": [
+        {
+            "eqno": "16",
+            "A": "44610",
+            "B": "-221",
+            "C": "1.0811",
+            "D": "0.026515",
+            "E": "-0.000013257",
+            "Tmin": "163.15",
+            "Tmax": "172.65"
+        },
+        "J/kmol/K"
+    ],
+    "IdealGasHeatCapacityCp": [
+        {
+            "eqno": "16",
+            "A": "20786",
+            "B": "0",
+            "C": "0",
+            "D": "0",
+            "E": "0",
+            "Tmin": "10",
+            "Tmax": "1500"
+        },
+        "J/kmol/K"
+    ],
+    "SecondVirialCoefficient": [
+        {
+            "eqno": "104",
+            "A": "0.065789",
+            "B": "-49.796",
+            "C": "-0.7443",
+            "D": "-0.092289",
+            "E": "0.83555",
+            "Tmin": "144.87",
+            "Tmax": "1448.7"
+        },
+        "m3/kmol"
+    ],
+    "LiquidViscosity": [
+        {
+            "eqno": "101",
+            "A": "-7.7421",
+            "B": "-0.53776",
+            "C": "-0.00050184",
+            "D": "-5.2934E-08",
+            "E": "2",
+            "Tmin": "165.02",
+            "Tmax": "174.52"
+        },
+        "Pa.s"
+    ],
+    "VaporViscosity": [
+        {
+            "eqno": "102",
+            "A": "0.0000014055",
+            "B": "0.57778",
+            "C": "188.46",
+            "D": "-312.26",
+            "Tmin": "100",
+            "Tmax": "1773.15"
+        },
+        "Pa.s"
+    ],
+    "LiquidThermalConductivity": [
+        {
+            "eqno": "16",
+            "A": "-0.012175",
+            "B": "143.58",
+            "C": "-4.2655",
+            "D": "0.011041",
+            "E": "-0.000032937",
+            "Tmin": "145.9",
+            "Tmax": "270"
+        },
+        "W/m/K"
+    ],
+    "VaporThermalConductivity": [
+        {
+            "eqno": "102",
+            "A": "0.00026719",
+            "B": "0.62046",
+            "C": "215.6",
+            "D": "-8144.4",
+            "Tmin": "150",
+            "Tmax": "1500"
+        },
+        "W/m/K"
+    ],
+    "RPPHeatCapacityCp": [
+        {
+            "eqno": "100",
+            "A": "20786",
+            "B": "0",
+            "C": "0",
+            "D": "0",
+            "E": "0",
+            "Tmin": "50",
+            "Tmax": "1000"
+        },
+        "J/kmol/K"
+    ],
+    "RelativeStaticPermittivity": [
+        {
+            "eqno": "1",
+            "A": "1.055",
+            "Tmin": "1",
+            "Tmax": "1500"
+        },
+        "_"
+    ],
+    "AntoineVaporPressure": [
+        {
+            "eqno": "10",
+            "A": "21.626",
+            "B": "1889.6",
+            "C": "22.713",
+            "Tmin": "174.87",
+            "Tmax": "260"
+        },
+        "Pa"
+    ],
+    "LiquidViscosityRPS": [
+        {
+            "eqno": "12",
+            "A": "-7.7494",
+            "B": "-6.6574E-10",
+            "Tmin": "165.02",
+            "Tmax": "174.52"
+        },
+        "Pa.s"
+    ],
+    "COSTALDVolume": [
+        "0.118",
+        "m3/kmol"
+    ],
+    "DiameterLJ": [
+        "4.110548E-10",
+        "m"
+    ],
+    "EnergyLJ": [
+        "208.8524",
+        "K"
+    ],
+    "RacketParameter": [
+        "0.286",
+        "_"
+    ],
+    "FullerVolume": [
+        "32.7",
+        "_"
+    ],
+    "Parachor": [
+        "0.0164353",
+        "kg0.25.m3/s0.5/kmol"
+    ],
+    "SpecificGravity": [
+        "2.95262",
+        "_"
+    ],
+    "Charge": [
+        "0",
+        "_"
+    ],
+    "CostaldAcentricFactor": [
+        "0.006",
+        "_"
+    ],
+    "WilsonVolume": [
+        "0.04291",
+        "m3/kmol"
+    ],
+    "ChaoSeaderAcentricFactor": [
+        "0.006",
+        "_"
+    ],
+    "ChaoSeaderSolubilityParameter": [
+        "15910",
+        "J0.5/m1.5"
+    ],
+    "ChaoSeaderLiquidVolume": [
+        "0.04291",
+        "m3/kmol"
+    ],
+    "RadiusOfGyration": [
+        "0",
+        "m"
+    ],
+    "VanDerWaalsVolume": [
+        "0.0142",
+        "m3/kmol"
+    ],
+    "VanDerWaalsArea": [
+        "2.5E+08",
+        "m2/kmol"
+    ],
+    "MatthiasCopemanC1": [
+        "0.48315",
+        "_"
+    ],
+    "SolidDensity": [
+        {
+            "eqno": "2",
+            "A": "26.963",
+            "B": "-2.7339E-08",
+            "C": "0",
+            "D": "0",
+            "E": "0",
+            "Tmin": "161.36",
+            "Tmax": "170.86"
+        },
+        "kmol/m3"
+    ],
+    "SurfaceTension": [
+        {
+            "eqno": "16",
+            "A": "-0.0032828",
+            "B": "498.28",
+            "C": "-11.457",
+            "D": "0.046655",
+            "E": "-0.00011349",
+            "Tmin": "161.36",
+            "Tmax": "289.74"
+        },
+        "N/m"
+    ],
+    "MatthiasCopemanC2": [
+        "0",
+        "_"
+    ],
+    "UniquacR": [
+        "1.13",
+        "_"
+    ],
+    "UniquacQ": [
+        "1.13",
+        "_"
+    ],
+    "ApiSrkS2": [
+        "0.010549",
+        "_"
+    ],
+    "MatthiasCopemanC3": [
+        "0",
+        "_"
+    ],
+    "SolidHeatCapacityCp": [
+        {
+            "eqno": "100",
+            "A": "-25122",
+            "B": "3384",
+            "C": "-116.81",
+            "D": "2.5952",
+            "E": "-0.020438",
+            "Tmin": "15",
+            "Tmax": "53.54"
+        },
+        "J/kmol/K"
+    ],
+    "UniquacQP": [
+        "4.936",
+        "_"
+    ],
+    "ApiSrkS1": [
+        "0.905443",
+        "_"
+    ]
+}
