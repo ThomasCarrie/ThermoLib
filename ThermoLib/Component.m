@@ -22,12 +22,14 @@ function Property = Component(CAS)
     Property.Ptriple = str2double(PropertyParameter.TriplePointPressure(1));
     % Mw, 摩尔质量, kg/kmol
     Property.Mw = str2double(PropertyParameter.MolecularWeight(1));
-    % Omega, 偏心因子, -
-    Property.Omega = str2double(PropertyParameter.AcentricityFactor(1));
+    % omega, 偏心因子, -
+    Property.omega = str2double(PropertyParameter.AcentricityFactor(1));
     % Hform, 标准摩尔生成焓, J/kmol
     Property.Hform = str2double(PropertyParameter.HeatOfFormation(1));
     % Gform, 标准摩尔生成自由能, J/kmol
     Property.Gform = str2double(PropertyParameter.GibbsEnergyOfFormation(1));
+    % Sform, 绝对熵, J/kmol/K
+    Property.Sform = str2double(PropertyParameter.AbsEntropy(1));
     
     % LiquidDensity, 液体的密度, kmol/m3
     % LiquidDensity_func, DIPPR函数
